@@ -65,7 +65,7 @@
 &kp TAB        &kp Q   &kp W     &kp F     &kp P   &kp B                      &kp J          &kp L   &kp U      &kp Y    &kp APOS  &none
 &kp LCTRL      &kp A   &kp R     &kp S     &kp T   &kp G                      &kp M          &kp N   &kp E      &kp I    &kp O     &none
 &kp LSHIFT     &kp Z   &kp X     &kp C     &kp D   &kp V      &none    &none  &kp K          &kp H   &kp COMMA  &kp DOT  &kp FSLH  &none
-                       &kp LGUI  &kp LALT  &mo 0   &kp SPACE  &mo 0    &mo 4  &kp BACKSPACE  &mo 5   &kp HOME   &kp END
+                       &kp LGUI  &kp LALT  &mo 3   &kp SPACE  &mo 2    &mo 4  &kp BACKSPACE  &mo 5   &kp HOME   &kp END
             >;
 
             label = "base_cm";
